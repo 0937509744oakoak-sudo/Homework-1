@@ -1,0 +1,27 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: Georgia, "Times New Roman", serif;
+  background: #f7f7f7;
+  color: #222;
+}
+
+main {
+  max-width: 40rem;
+  margin: 3rem auto;
+  padding: 0 1.25rem;
+}
+
+h1 {
+  margin-bottom: 0.5rem;
+}
+
+img {
+  display: block;
+  margin-top: 1.5rem;
+  max-width: 100%;
+  height: auto;
+}
