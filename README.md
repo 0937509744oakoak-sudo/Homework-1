@@ -1,9 +1,4 @@
 
-```
-
-```markdown
-# Homework 1
-
 โปรเจกต์เว็บเบื้องต้น (Simple Starter Page) พัฒนาด้วย HTML5, CSS3 และ Vanilla JavaScript
 
 ## 📁 โครงสร้างโปรเจกต์ (Project Structure)
